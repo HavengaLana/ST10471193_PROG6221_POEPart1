@@ -1,0 +1,14 @@
+C:\Users\lab_services_student\source\repos\ST10471193_PROG6221_POEPart1\bin\Debug\net10.0\ST10471193_PROG6221_POEPart1.exe
+C:\Users\lab_services_student\source\repos\ST10471193_PROG6221_POEPart1\bin\Debug\net10.0\ST10471193_PROG6221_POEPart1.deps.json
+C:\Users\lab_services_student\source\repos\ST10471193_PROG6221_POEPart1\bin\Debug\net10.0\ST10471193_PROG6221_POEPart1.runtimeconfig.json
+C:\Users\lab_services_student\source\repos\ST10471193_PROG6221_POEPart1\bin\Debug\net10.0\ST10471193_PROG6221_POEPart1.dll
+C:\Users\lab_services_student\source\repos\ST10471193_PROG6221_POEPart1\bin\Debug\net10.0\ST10471193_PROG6221_POEPart1.pdb
+C:\Users\lab_services_student\source\repos\ST10471193_PROG6221_POEPart1\obj\Debug\net10.0\ST10471193_PROG6221_POEPart1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab_services_student\source\repos\ST10471193_PROG6221_POEPart1\obj\Debug\net10.0\ST10471193_PROG6221_POEPart1.AssemblyInfoInputs.cache
+C:\Users\lab_services_student\source\repos\ST10471193_PROG6221_POEPart1\obj\Debug\net10.0\ST10471193_PROG6221_POEPart1.AssemblyInfo.cs
+C:\Users\lab_services_student\source\repos\ST10471193_PROG6221_POEPart1\obj\Debug\net10.0\ST10471193_PROG6221_POEPart1.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\source\repos\ST10471193_PROG6221_POEPart1\obj\Debug\net10.0\ST10471193_PROG6221_POEPart1.dll
+C:\Users\lab_services_student\source\repos\ST10471193_PROG6221_POEPart1\obj\Debug\net10.0\refint\ST10471193_PROG6221_POEPart1.dll
+C:\Users\lab_services_student\source\repos\ST10471193_PROG6221_POEPart1\obj\Debug\net10.0\ST10471193_PROG6221_POEPart1.pdb
+C:\Users\lab_services_student\source\repos\ST10471193_PROG6221_POEPart1\obj\Debug\net10.0\ST10471193_PROG6221_POEPart1.genruntimeconfig.cache
+C:\Users\lab_services_student\source\repos\ST10471193_PROG6221_POEPart1\obj\Debug\net10.0\ref\ST10471193_PROG6221_POEPart1.dll
